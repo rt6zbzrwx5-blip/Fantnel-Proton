@@ -1,0 +1,1 @@
+⚠️ Legal Note: This repository contains deployment scripts and adaptation configurations written by me. Fantnel itself is licensed under GPL-3.0. If you distribute packages containing the Fantnel program binary, you must provide the source code of Fantnel at the same time.
